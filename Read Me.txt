@@ -1,0 +1,40 @@
+
+
+NOTE: 
+
+
+
+The theme chosen is a WordPress theme which is developed in a custom form so do not attempt to use it on WordPress. 
+
+Host the website normally like you do on CPANEL through copying its contents in the CPANEL file manager. 
+
+
+
+Suggested steps to Recover Your Website:
+
+
+- Firstly, Extract the Website source files on your local system
+
+- Choose a Go Daddy Hosting Plan (https://pk.godaddy.com/hosting)
+
+- Transfer Domain "satrangstudio.com" from Hosterpk .com to Go Daddy (if this isn't possible, a new domain might have to be selected)
+
+- On the CPanel which Go Daddy will provide you after purchase, upload all the website files through the file manager
+
+-(Code is in plain HTML/CSS/JS, so further enhancements/modifications can be made easily to their files)
+
+
+
+
+This codebase is a slightly older version of the site:
+
+1. Logo has to be updated on Navbars
+
+2. Backend code has to be written to send email from Contact Us form on Contact us Page
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------
